@@ -176,8 +176,8 @@ ob_end_clean();
 
 // echo $html;
 
-echo $html;
-die();
+// echo $html;
+// die();
 
 require( 'dompdf-master/autoload.inc.php' );
 use Dompdf\Dompdf;
